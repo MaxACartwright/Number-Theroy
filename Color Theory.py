@@ -1,5 +1,7 @@
 import turtle as t
 
+t.speed(1000)
+
 data = [[10, 10], [255, 255]]
 
 t.forward(256)
